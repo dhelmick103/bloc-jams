@@ -1,12 +1,12 @@
-#Javascript Frontend Project
+# Javascript Frontend Project #
 
 This project was my first use of Javascript to build a frontend application. I followed a three step process to go from start to finish.  
 
-##Done Definition
+## Done Definition ##
 
-##Playbook
+## Playbook ##
 
-###HTML & CSS: Basic Structure
+### HTML & CSS: Basic Structure #
 [link to commit](https://github.com/dhelmick103/bloc-jams/commit/0f61b08b25556570a64f932613b9195e9c15729e)
 In this checkpoint, I created
 the basic framework for Bloc Jams including the index page, as well as tags to organize content in what will eventually become a digital music player.
@@ -55,6 +55,10 @@ jQuery: Next and Previous Buttons
 In checkpoint 32, I added functionality to incorporate next and previous buttons to shift between songs in an album.  
 
 jQuery: Buzz Library
-In checkpoint 32, I used the Buzz music library to add songs to my Bloc Jams application to play.  I also added a volume function to adjust the sound of the music.
+In checkpoint 33, I used the Buzz music library to add songs to my Bloc Jams application to play.  I also added a volume function to adjust the sound of the music.
+
+jQuery: Seek Bars
+In this task, I developed a seek bar to adjust the current time of the song as well as the volume.  
+
 
 ##Execution
